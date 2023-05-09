@@ -1,22 +1,21 @@
 ---
-title: "for文（拡張for文）の使い方"
-author: いとねん
-permalink: /
+title: "「おさむちゃん、ほんでカブ」紹介ページ"
+author: おさむちゃんの娘
+permalink: /https://youtube.com/@osamuchan_hondecub
 ---
 
+このページでは、「おさむちゃん、ほんでカブ」を紹介していきます。
+
+# 「おさむちゃん、ほんでカブ」って？
+
+まずそもそも、「おさむちゃん、ほんでカブ」とは、とあるYoutubeチャンネルです。
 
 
 
 
 
----
 
-以下テンプレート
 
-# for文の使い方（java）
-
-改行は、行末に半角スペースを2個いれる
-次の行
 
 [リンク](https://www.google.co.jp/)
 
